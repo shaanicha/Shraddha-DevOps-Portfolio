@@ -5,7 +5,7 @@ This portfolio showcases my journey and skills as a Cloud & DevOps Engineer.
 
 ## Live Demo
 
-🔗 [Visit Live Portfolio](https://your-username.github.io/shraddha-devops-portfolio/)  
+ [Visit Live Portfolio](https://your-username.github.io/shraddha-devops-portfolio/)  
 
 
 ## About Me
